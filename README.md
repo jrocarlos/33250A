@@ -2,11 +2,11 @@
 
 ##
 
-Procedure to automate Agilent/HP 33250A frequency counter calibration with Met / Cal Fluke software calibration.
+Procedure to automate HP/Agilent/Keysight 33250A frequency counter calibration with Met / Cal Fluke software calibration.
 
 To use this calibration software, Fluke Corpotarion's Metcal Calibration Software is required.
 
-This allows calibration of frequency, period and reference frequency of the frequency counter.
+This software allows the calibration of frequency, period and reference frequency of the frequency counter.
 
 A GPIB-USB converter cable is used for the communication between the software and the frequency counter.
 
